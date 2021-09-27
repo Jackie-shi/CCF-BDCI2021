@@ -1,0 +1,1001 @@
+text,BIO_anno,class,bank_topic
+就我签名的这些就可以了。。。首推建行,O O O O O O O O O O O O O O O O B-BANK I-BANK,2,招商银行
+退款是原来的退贷方式卡，只是为了给你恢复额度，老老,B-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,招商银行
+实地考察,O O O O,2,工商银行
+同问，掌上生活有手续费，银行app无手续费但是只能取2k,O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,招商银行
+你好，这个问题解决了吗？我好操心啊,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+大妈行确是必不可少的。,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+线下办的？是卡员上门办的吗？,O O O O O O O O O O O O O O,2,民生银行
+和我一样，我目前用卡三期账单两个半月，上个月出了分期，在等临时中，菜卡前几个月给临时首提就有概率，没临时六个月就难...,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_ADJ O O O,2,招商银行
+不知道银行给不给你下次的机会了，反正工行没有给我机会,O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O,2,
+等收到领卡短信在去申请网点面签领卡一起办，额度就不会低,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ,2,
+什么多么米？多少钱吧？价格网点说的算（封顶70），有可能做任务免费，资质等等,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+没有预审批，我还没提交资料申请，显示所有人都有的额度200000，需要点申请刷脸后才能出额度吧,O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,交通银行
+你可以打电话给信用卡中心说明情况，或许有补救的办法。,O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O,2,招商银行
+这个是第一年的刷免图片吧，第二年可能就是2000了，我办的浦发的卡就是的,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O,2,
+不交是重伤。,O O O O O O,2,工商银行
+缤纷生活卡片宣传页卡片详情进去有四项权益展示，点第二个五倍积分进去,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O,2,中国银行
+34不少吗，我晕,O O O B-COMMENTS_ADJ O O O O,2,工商银行
+签约完就是借了，就成功了,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我是员工，我房贷什么都是建行的。,O O O O O O B-PRODUCT I-PRODUCT O O O O B-BANK I-BANK O O,2,建设银行
+净值700，还不错哦,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+可以，但你要做好临额不能续的准备,O O O O O O O B-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,招商银行
+在微信咱样操作可以激活？直接绑卡提示没开通快捷支付功能,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,中国银行
+老哥什么资质，额度都这么高,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ,2,
+我也好久提不了了,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,民生银行
+流水是不是很多,B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+每次结清后就提额。现在12W了,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,中信银行
+。我讨厌，基金搞了好久都亏，哎,O O O O O B-PRODUCT I-PRODUCT O O O O O B-COMMENTS_ADJ O O,2,
+大黑了,B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,招商银行
+正因为走了许多路，经历的无数繁华与苍凉，我们才能在时光的流逝中体会岁月的变迁，越来越怀旧了，可能是老...,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,0,建设银行
+对，你偏向选择哪个,O O O O O O O O O,2,工商银行
+搬砖，多赚钱安心,O O O B-COMMENTS_ADJ O O O O,2,
+跟你一样的时间提的一样的固定，只是我的临时只能到36000，感觉不稳,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,0,招商银行
+我的现在起诉了，刚刚打电话说还款的事，直接说起诉了。,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,0,建设银行
+面签，7号业务员来公司办理然后一直没更新。这可咋办呀，坑死了,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O,2,
+祝下卡,O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+回答不满意，看银行是否会叫静悄悄叫公安局。再到派出所呆上十几个小时中间要录入你的指纹，照相在做笔录。进入后先不理你搜你物品中间会要解除皮带，鞋袋子这些鬼明堂??...,O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,
+没事经常点开看一下比较会降到0.5左右,O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O,2,中信银行
+942什么意思？,O O O O O O O O,2,工商银行
+好像是，你看看上面没有销户两个字，户还开着呢，只不过就是零鸭蛋,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O,2,工商银行
+盾多少米1个,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+周末申请的，还没听说，浦发的效率比较低啊,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O,2,
+扫描码对动物来说不可靠吧？扫码资源少很容易被屏蔽,O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+可以协商，已经成功3家了,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+求老铁指点，基金是需要长久持有么,O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O,2,
+卡员工申请，在银行上班就是好啊,O O O O O O O O O O O O O B-COMMENTS_ADJ O,2,
+我的也是这个代码，流水不够或者是负债太高,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+中国银行不提就不要显示。,B-BANK I-BANK I-BANK I-BANK O O O O O O O O,2,中国银行
+这是卡贷款,O O O B-PRODUCT I-PRODUCT,2,民生银行
+收藏也可以录制。可信吗？?都说流量谈判很难谈判,O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,交通银行
+再想想办法。如果你是真的没有那么多本金一次性还清，就跟银行谈分期费率，给高点的手续费，总归能解决问题的。...,O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O,2,工商银行
+你逾期几期账单了,O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+你是4星吗，我是工行的五星,O O O O O O O O B-BANK I-BANK O O O,2,
+一直都想消，但是没舍得,O O O O O O O O O O O,2,工商银行
+无用，网贷都没用吧,O O O B-PRODUCT I-PRODUCT O O O O,2,
+这利息可以啊，需要就下，自己的小动物就可以，就是给你用的,O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+拿到了吗？,O O O O O,2,农业银行
+肯定不亏。我想协商分期还款，但是我不同意，但是他,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O,2,中信银行
+嗯，这点感觉建行系统好落后啊，其他银行好像都是立刻可以看到,O O O O O O B-BANK I-BANK O O B-COMMENTS_ADJ O O O O O O O O B-COMMENTS_ADJ O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,建设银行
+看我的，建行的信用卡还是秒批,O O O O B-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,
+金额提高了告诉我谢谢。,B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+我就一张信用卡一个农商消费贷加一个房贷，准备养养征信在搞工商，现在看到建设分期通还可以啊，毕竟我公积金是建行的，我不玩卡就想备着点银行贷款...,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT O O O O O B-PRODUCT I-PRODUCT O O B-BANK I-BANK O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-BANK I-BANK O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O,2,建设银行
+我已经快一年没有邀请，放弃我了么,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,
+耐心等,B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,农业银行
+你办的交通银行的信用卡是怎么通过的？,O O O B-BANK I-BANK I-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O,2,
+果然是建设垫底。我的也是，拿来洗车:lol,B-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK O O O O O O O O O O O O O O O O,2,招商银行
+浙江的工商与苏州的工商????什么苏州银行，你都搞错了,O O O B-BANK I-BANK O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O,2,
+任何一家银行数字卡就是没有实体卡的,O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,工商银行
+浙江的可能是要先把钱冲到中石化钱包，再去充值加油卡才有优惠吧，好像别的省直接充值选择微信付款，选择银行卡就行多方便啊...,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O,2,工商银行
+记得是在云闪付里申请信用卡页面看到的，跟黑白菜很像，不过牡丹是金色的，另外申请需交600块钱,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+交通联合确实牛批了。我这里地方银行六七年前就出过一款公交联名卡，把储蓄卡当公交卡用，一张卡，俩账户。公交账户和储蓄账户...,B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O,2,建设银行
+上个月好几笔，不在天书没算也没补，懒得撕了，爱给不给,O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O,0,招商银行
+我已经办了，建设银行的,O O O O O O B-BANK I-BANK I-BANK I-BANK O,2,
+昨晚快九点申请的，没消息也查不到记录，效率低不低,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+就是没有，不懂为何，心累,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+也在研究能，弄清楚了吗？分享一下。,O O O O O O O O O O O O O O O O O,2,工商银行
+噢，APP怎么查询额度?,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,中国银行
+招商：136000；,B-BANK I-BANK O O O O O O O O,2,招商银行
+中行是注销后再申的吗？,B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,建设银行
+话说，邮政为毛要销，却要留着渣猴子,O O O B-BANK I-BANK O O O O O O O O O O O O,2,建设银行
+一直能曲线，我也是去年8k到5w的,O O O O O O O O O O O O O O O O O,2,工商银行
+建议不要再预约账单分期了！它已经不待见你了！还有你其他行情况估计也不怎么地，它会认为你资金链有问题了,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+自己啥资质心理没数吗，啥额度心里没数么,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,
+直接一分钱不用吗？,O O O O O O O O O,2,招商银行
+是打的座机号码联系卡员上门办理吗？,O O O O O O O O O O O O O O O O O,2,民生银行
+是啊，都差不多，建行的小套路，没个七八顿的饭局，看来是问不出来了。,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O,0,建设银行
+我也是0额度存了100用了几个月再申请其他卡秒过的10000额度,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,中国银行
+我工资卡也被锁了，好烦躁,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+就在昨天，收费300...你只提一个，跟收费是随机的。,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,中信银行
+无届应该是秒批的,O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+去年花了1000多块，也没用，心累,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+最后你试了没有啊？成功没有？,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+牛Bi我想要都没有，你们竟然两个人都有。,B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O,2,民生银行
+异地不可以的，必须本地,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+分行有这么大的权限？工行据说不行啊,O O O O O O O O O O B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+你说的是信用卡还说房贷,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT,2,建设银行
+中行APP-信用卡-进度查询,B-BANK I-BANK O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,中国银行
+其他额度多少,O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+你自己看着办，反正我的浦发很快就批了,O O O O O O O O O O O B-BANK I-BANK O O O O O,2,
+你的利息比我的多。?我的本金是十万?五年过去了，本息2,O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O,2,工商银行
+论机构的话，一般单个的授信达不到要求的时候，肯定会申请另外一家机构,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O,2,工商银行
+办下来有什么作用？这些不是得卡里存多少钱才能开么,O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,招商银行
+确定，之前用过，还打电话给我索要，我说过几天给，然后没后续了，银行坑不坑,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+每天早点点进去看，我步步为赢还买了11w了。,O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,工商银行
+五万？这个额度还是可以的,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,
+试试？是不是秒批？中信必须秒啊,O O O O O O O O O B-BANK I-BANK O O O O,2,
+百分99之套现，,O O O O O B-COMMENTS_N I-COMMENTS_N O,2,民生银行
+没有，前几天回答的，3期3000分，积分还可以吧,O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O,2,
+云闪付可以看得到,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,建设银行
+听说是购房合同，产权证，身份证，建行卡,O O O O O O O O O O O O O O O O B-BANK I-BANK O,2,建设银行
+额度一万以上就是白金，一万以下金卡,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O B-PRODUCT I-PRODUCT,2,中信银行
+我这儿就不给办，说没有700k以上额度的资金流转是不给办u盾的，或者五星用户才可以免费办,O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+实体卡片目前来说用处不大??现在大部分手机都支持nfc绑上无界虚拟卡可以3当实体卡片用,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O,2,
+看来老哥有理财吧？这么高总授信了小招还给你提额。,O O O O O B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+给你发短信了还是打电话了？真实消费也刷不了？,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,建设银行
+同样的固定临时只给了54k，嫌弃给的少没点过段时间临时没了,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O,2,招商银行
+哪个地区费率这么低,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+{:2_181:}app，你要换卡的银行卡哪里可以查到,O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O,2,招商银行
+叫你提前结清就麻烦了,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+多少额度呀？今天联系客户经理说这个不能延期的不知道逾期多久能协商,B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,农业银行
+招商55k(小黑，2年了),B-BANK I-BANK O O O O O O O O O O O,2,招商银行
+现在借记卡管得严。你下次直接说想办个工资卡就行了。有个工作证明就没问题,O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+线下成功率会大一些，不过时间会久很多,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+【北京生肖白】30k,O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,建设银行
+已点，安心等着就可以了吧,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,
+又想骗我送人头,O O B-COMMENTS_ADJ O O O O,0,建设银行
+楼下的请不要称呼“大佬”。因为这两个字配不上他。,O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+客服说能用，不用担心了,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+那你的融e借共享信用卡的还是比信用卡额度多？,O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+找到了。谢谢兄弟，平时根本懒得看中信鸡肋活动的人,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-BANK I-BANK O O O O O O,2,中信银行
+？就挂了，那跟没说有啥区别，心累,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+卡多的，就用冷冻大法,O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,建设银行
+三年申请了十次都被拒，直接换家银行了，懒得搞。,O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O B-COMMENTS_ADJ O O O,2,工商银行
+我套空还出临额,O O O O O B-COMMENTS_N I-COMMENTS_N,2,民生银行
+就是啊，哔哩哔哩怎么能曲线到5个，,O O O O O O O O O O O O O O O O O,2,建设银行
+我也被骗了,O O O B-COMMENTS_ADJ O,0,民生银行
+15k太鸡肋了，浦发每次都小气,O O O O O O O O B-BANK I-BANK O O O O O,2,
+十张卡，最多南京用了25000，最少江苏用了几百，唯独交通19000一分没用，这个月也打算不用，一用就打分期连着打，接了说不分还打。TMD真穷疯了，什么叼六大丢人。...,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_ADJ B-COMMENTS_ADJ O O O O O O O O O O O O O,0,交通银行
+500万存一年只为办个信用卡?能上天吗？,O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O,2,工商银行
+我上月底申请的，今天打人工客服催审核了。,O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,中国银行
+招商我逾期了10万一共，e招贷逾期4万逾期俩月了……就还了500,B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O,2,招商银行
+那民生完了，所有钱今天全部梭哈了，全款买房了。还套了近10万的卡。不过我近期也想试一下，我不用做房贷了，征信也不那么较真了。...,O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,民生银行
+应该是销户状态，没有逾期显示！我工行14年呆账就是还了后就是销户状态，没有逾期记录显示！不知道中行是不是？,O O O B-COMMENTS_N I-COMMENTS_N O O O O O B-COMMENTS_N I-COMMENTS_N O O O O B-BANK I-BANK O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-BANK I-BANK O O O O,2,中国银行
+不好意思，初审没通过~失败了,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+不是传说要留10%吗,O O O O O O O O O O,2,民生银行
+我两个账单了～怎么018～其实一开始就018大神知道为啥么,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+临时到期15天内是无法提额的,O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,民生银行
+可以，有的是在计费日期之后，有的是在月初或月末，看你银行的日期，按约定就可以的,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+申请快贷吗?我看了其他人，说试试就可以申请。?你不能快速贷款。,O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT O,2,建设银行
+楼主进度啥样了能查到快递了嘛我差不多跟你,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,招商银行
+降卡1万，四年没提了,B-COMMENTS_ADJ O O O O O O O O O,2,民生银行
+拿房本早卡员办，10W起步。建设银行的,O O O O O O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O,2,
+招商银行白金好像没有。其他银行有,O O O O O O O O O O O O O O O O,2,招商银行
+不是建行发的！,O O B-BANK I-BANK O O O,2,建设银行
+同省可以，我的就是，我市没有去的省会激活的，啥也没说就给办了！,O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O,2,民生银行
+楼主的民生是哪一个卡种？,O O O B-BANK I-BANK O O O O O O O,2,民生银行
+为什么不用小额0.3的？,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,招商银行
+我18年4月冻的，每半年去一次，每次都是查询告诉我冻结，今天我会去看看，这次去是因为这么久了工商突然发短信邀请我办卡了，我怀疑已经解封了，不然不会发给我...,O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+祝过??我今天刚过，农行的效率还是杠杠滴,O O O O O O O O O O B-BANK I-BANK O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+也是我所有卡里提额最稳的一个:lol,O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,民生银行
+和桂林一样，不算幸运,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,中信银行
+我在招行app上查的征信跟我前几个月的不一样，前段时间查了还有好几个平台的逾期了，前几天查了那些小平台的都没记录了，有的甚至结清了，我逾期7个月了...,O O B-BANK I-BANK O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,工商银行
+就直接和营业员说办金葵花么,O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O,2,招商银行
+没有。就是流水比较大。,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,工商银行
+借钱是不需要u盾的，但是你要去提信用卡额度，是需要u盾才行。,O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O O O,2,工商银行
+自己有想法嘛？有自己想法是最好的,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我也没回访，第一个是机场东方航空客服给办的联名，感觉没啥用，隔几天申了i白和华为套卡，也没回访，感觉华为没啥用打电话取消了，都是秒批...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,中信银行
+三年五手提的路过。。很慢很慢,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+浦发给的额度最大，邮政养不起来,B-BANK I-BANK O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK O O O O,2,建设银行
+有八万的额度，借呗朋友一直在循环的借8万,O O O O B-COMMENTS_N I-COMMENTS_N O B-PRODUCT I-PRODUCT O O O O O O O O O O O,2,建设银行
+本科已经毕业了。要等研究生毕业吗？,O O O O O O O O O O O O O O O O O,2,招商银行
+没有，我3月23拉的，还是只显示当期的，招行是很早就有了,O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O,2,工商银行
+这征信哪里搞得？,O B-PRODUCT I-PRODUCT O O O O O,2,工商银行
+招行和建行，分期过程中可以提额。中行和交行，分期过程中不可以提额。,B-BANK I-BANK O B-BANK I-BANK O B-PRODUCT I-PRODUCT O O O O O B-COMMENTS_N I-COMMENTS_N O B-BANK I-BANK O B-BANK I-BANK O B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+你知道有的人没有收到短信吗。着急的,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+牛二个月没有了，心累啊,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我没敢点，怕影响提固定,O O O O O B-COMMENTS_ADJ O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N,2,中信银行
+R00啥意思？,O O O O O O O,2,建设银行
+隔天才可以看??不过款是扣了。兴业要不要这么坑,O O O O O O O O O O O O O O O O O O O O O O O,2,
+额度一万三激活信用币两万直接打电话调平到两万激活备用金一万六,B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,农业银行
+哎，为什么我有预批金额，贷款被拒？,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-PRODUCT I-PRODUCT O B-COMMENTS_ADJ O,2,中国银行
+我们申请实体卡?二卡第二批?然后我注销了《无界》,O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,中国银行
+可以分期，也算黑屋？,O O B-PRODUCT I-PRODUCT O O O O O O,2,招商银行
+负债10万还能下什么银行的卡不？,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,交通银行
+真不好说，我86000-96000幅度只有12%，96000-120000提升幅度25%,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,民生银行
+再上就是精英白了哈，只能换金卡,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-PRODUCT I-PRODUCT,2,民生银行
+都还没有建档呢别慌你贷款都还没有批吧,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-PRODUCT I-PRODUCT O O O O O O,2,建设银行
+上午看还没有，刚才看已经有了，临额可提到4.5k,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,工商银行
+平安18k建行16k花旗44k,B-BANK I-BANK O O O B-BANK I-BANK O O O B-BANK I-BANK O O O,2,农业银行
+你真的是教师？,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+我都没有参加太高了,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,招商银行
+首卡能看到额度？,B-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O,2,建设银行
+你可以加到手机闪付里面，这样就是3.8了,O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O,2,招商银行
+好坑啊??多背40万负债??加五万信用卡授信??再办卡??办贷款房贷都会受影响吧？,O B-COMMENTS_ADJ O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT O O O O O O O,2,
+大山白暂时用不到权益，年费我也吃不消,B-PRODUCT I-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+以后0.38没有了？这个利率的肯定是没有了,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,
+炫耀帖？赞的很？,O O O O B-COMMENTS_ADJ O O O,2,
+好的谢谢,O O B-COMMENTS_ADJ I-COMMENTS_ADJ,1,招商银行
+一个就够了。再多也没用。,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,中国银行
+我前天建行中行都拒了，农行秒过，不知道他们的侧重点在哪我也是上星期才办的储蓄卡和农行也没有交集,O O O B-BANK I-BANK B-BANK I-BANK O B-COMMENTS_ADJ O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-BANK I-BANK O O O O O,2,农业银行
+六星有啥好处吗铁子,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+外币兑换只有中行才能搞，我上次去建行换美金要我去中行。,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-BANK I-BANK O O O O O O O O B-BANK I-BANK O O O O O O B-BANK I-BANK O,2,中国银行
+我是信用卡的现金分期属于贷后,O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT O O O O,2,工商银行
+明天出额度,O O O B-COMMENTS_N I-COMMENTS_N,2,工商银行
+这个应该能曲线吧,O O O O O O O O,2,招商银行
+查mcc是有的,O O O O O O O,2,招商银行
+借老哥吉言，出结果第一时间告诉你，可是我之前多次在资料管理提交行驶证没用,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+我投诉的是银监会，然后昨天招商银行投诉部打电话给我询问,O O O O O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O O O O O O O O O O,0,招商银行
+哈哈，你话跟你说的一样，优质男整个论坛也不多。就不是这种三五万的卡能解决的了。,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O,2,中国银行
+你这征信，难。。。养养再搞吧,O O B-PRODUCT I-PRODUCT O O O O O O O O O O,0,招商银行
+看来是刚性扣减，我也是六行20多万，直接不提额了现在,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,招商银行
+逾期一年多你其他信用卡有封卡降额吗,B-COMMENTS_N I-COMMENTS_N O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_ADJ O O,2,农业银行
+我裸申环球白，下了张5万的金卡,O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O B-PRODUCT I-PRODUCT,2,工商银行
+申了两次没过，建行和工行都过了,O O O O O O O B-BANK I-BANK O B-BANK I-BANK O O O,2,民生银行
+为什么我的房贷三天没打电话就直接借出去了？,O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O,2,交通银行
+[color=#80808A$4display:-webkit-box],O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+工行可以邮寄异地，我刚换的。,B-BANK I-BANK O O O O O O O O O O O O,2,工商银行
+两天之后就生效了,O O O O O O O O,2,招商银行
+老哥，上个月底我下了华夏39000你还有印象吗？我前天又在云闪付申请了浦发，又过了，批了12000。这银行也是奇怪，征信有逾期，你需要他的时候他是死活不过，你不怎么需要他...,O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+缓冲期什么意思啊，而且我工行信用卡一个月都花不了300块钱怎么还是5星级,O O O O O O O O O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O,2,工商银行
+老哥，我的也是喔，推荐10k不敢送人头。征信又黑又烂,O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O B-COMMENTS_ADJ O B-COMMENTS_ADJ,0,工商银行
+你是通过我是拒,O O O O O O B-COMMENTS_ADJ,2,工商银行
+现金分期有红字吗，还是直接点提额？,B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,建设银行
+就问你能不能提一下我马上付款！,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,民生银行
+能理解，我也前段时间成功了，也发了贴，额度也低，主要还是提额后的心情,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,中国银行
+日了狗了，昨天上了个任天堂。以为今年继续上个11。结果不给了。早知道不要人天堂口的,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,中信银行
+真的假的，，上面显示已受理,B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,工商银行
+这卡还有信用卡啊,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O,2,建设银行
+这会儿还有名额呀，想要办的赶紧,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+不止你一个，我前两天也没了，心累,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+建行没什么套路信用卡别太多了就行,B-BANK I-BANK O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,建设银行
+我的卡就是下卡6K的，现在59000用了2年多，用了一年首提,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+我跟你额度一样一样的，8300，强迫症想着到一万也行。然并卵，一直有，一直拒,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ,2,中国银行
+有房无车..额度感觉会比较低,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O B-COMMENTS_ADJ,2,
+不用，之前用过，还打电话给我呢，我说没留都扔了，后面也没事，所以安心,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+我经常干这事儿，出了账单之后只要超过300就可以正常分期了,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT O,2,招商银行
+会不会影响我的其他信用卡啊，请求大神告知，会不会这个错误，导致其他银行信用卡被封卡？,O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,招商银行
+每月只有3w没有动力申请卡。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O,2,中国银行
+卧槽我三号申请的还在审核中,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,农业银行
+消费分期吧，我今天分了36,B-COMMENTS_N I-COMMENTS_N B-PRODUCT I-PRODUCT O O O O O O O O O,2,工商银行
+很好抢，20w积分很难得的。,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-PRODUCT I-PRODUCT O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+感觉小建有点严,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ,2,建设银行
+建行第九行，工行十九行,B-BANK I-BANK O O O O B-BANK I-BANK O O O,2,工商银行
+这几天也接到了建行的分期电话，让我1.6分12期，跟他说5000，3期，意思意思。快两年了还没首提，心塞,O O O O O O O B-BANK I-BANK O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ,0,建设银行
+你的解没解锁现在,O O O O O O O O,2,工商银行
+后来搞定了吗，成功了么,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+办盾有助于提额？,O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+秀儿，你这太优秀了,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+民生改政策了，去年5月的时候我有民生金卡，申请二卡民生标准白金卡就是秒批通过，没有什么初审和终审一说。今年7月申请女人花标准白金卡提交后就收到一个初步审核通过的短...,B-BANK I-BANK O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,民生银行
+照我的情况确实是，目前我的外省储蓄卡还是有预审批的不过只有1万，本地的没有。不过本地的我有一张无界的，具体的也搞不懂啦。我不可能为了一张实体信用卡给我用了那么...,O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O,2,工商银行
+一般人过不了，像工行这种要求本来就高,O O O O O O O O B-BANK I-BANK O O O O O O O B-COMMENTS_ADJ,2,
+等死，我的分期都没批，咋搞,O O O O O B-PRODUCT I-PRODUCT O O O O O O,2,
+请问这种鸡怎么截屏的啊，完全搞不懂，心累,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+应该是wd影响的，但凡不到手头紧的时候谁会去用wd啊，你用wd银行肯定觉得你缺钱，特别是申请大额卡的很难通过,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+口头投诉还需要书面证明吗,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,民生银行
+我去看看，全币白不要年费么,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+老农不好提哦,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,农业银行
+主推这个呢,O O O O O,2,工商银行
+恭喜下卡坐等额度,B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N,1,建设银行
+这么多笔大额，支付宝不会风控么？,O O O O B-COMMENTS_N I-COMMENTS_N O B-PRODUCT I-PRODUCT I-PRODUCT O O B-COMMENTS_N I-COMMENTS_N O O,2,招商银行
+平安只有8连,B-BANK I-BANK B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+猴子瓜瓜乐不香吗，，这个就是被反撸,O O O O O O B-COMMENTS_ADJ O O O O O O O O O O,2,招商银行
+求助贴！我是去工行网点还是打客服啊,O O O O O O O B-BANK I-BANK O O O O O O O O,2,
+人活在世上，要有压力，当修行好了！,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+然后去商店超市刷几笔一百几十的，这样额度就慢慢起来了,O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,
+点击，为什么不点击,O O O O O O O O O,2,中国银行
+这个东西早就取消不用了?,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+有积分,O B-PRODUCT I-PRODUCT,2,民生银行
+准备申请军魂卡，或者奋斗卡,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,
+这么好的吗,O O B-COMMENTS_ADJ O O,2,工商银行
+通过了吗，额度总体满意,O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+牛逼，白金100.然后年费几百，要是我直接拿刀去民生银行了。耍猴？,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O O O O O,2,民生银行
+这样操作100%大凶！,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+微信客服咋问问mcc,O O O O O O O O O O,2,招商银行
+有社保有公积金当天被拒了,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_ADJ O,2,工商银行
+还有这种事？你点我头像然后截图界面给我看看,O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+??本人0510地区，外地人，有工作，社保，公积金。,O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O,2,
+我卡没给我，感觉有点悬了,O O O O O O O O O O B-COMMENTS_ADJ O,2,
+打了多少电话,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+没弄啊，自己突然就冒出来了，还吓我一跳,O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O,2,
+你忘了最重要的??取现金??然后存起来,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,
+3月22日网点申请的，同样等审核，这银行效率有点高,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,农业银行
+因为任务量暴增了，不放水上面的kpi也完不成嘛。,O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O,2,建设银行
+现在有个毛线的羊毛。,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,中国银行
+不容易过。,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+快贷不可以的吧,B-PRODUCT I-PRODUCT O O O O O,2,建设银行
+如果发送号码正确！那一定就是对了，太开心了吧,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+借记卡，大家不用折腾了,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,招商银行
+参考额度消失及融e借被关闭不影响申请新卡的额度，新卡额度基本上共享你现在10W额度。至今我这两个额度消失已出现近十个月，前两个批的新卡额度与手中信用卡额度共享。...,O O B-COMMENTS_N I-COMMENTS_N O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-BANK B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O,2,工商银行
+成功了吗？,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+100K美元么？没有人民币账户啊,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,中国银行
+不点怎么出额度？,O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+留三行就够了，多了还是心累的！,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,招商银行
+先下卡，管它是审批还是贷后,O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,招商银行
+你申请的哪个卡？？能曲线？等待你的消息,O O O O O O O O O O O O O O O O O O O,2,建设银行
+没激活的就消了吧,O B-COMMENTS_N I-COMMENTS_N O O O O O,2,建设银行
+我看见了，点钱包充值进去后，显示随机减，那界面不能截图，但是跟别人的不一样没有显示减少多少，只是显示（本单随机立减）不搞了...,O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O,2,工商银行
+你想要多少？悲伤的故事,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,建设银行
+哪个地方的外地能办不，这么坑,O O O O O O O O O O O O O B-COMMENTS_ADJ,2,
+竟然有实体卡，拿到实体卡告诉我，我也去弄一张，有卡还是放心些,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我的最近也突然没了，我的跟信用卡额度一样没了也好,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+拿到了，单子上都没写额度，打电话问客服，说要去面签后才知道，以前不是的,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O,2,中信银行
+还是取出来保险。。。,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+我填的0000001??拒了,O O O O O O O O O O O O B-COMMENTS_ADJ O,2,
+没钱还不要用招行的临时额度不然到时候你死定了,O O O O O O B-BANK I-BANK O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O,2,招商银行
+下农行没上班，是个好梦,O B-BANK I-BANK O O O O O O B-COMMENTS_ADJ O,2,农业银行
+现在不知道账单最低是3100多还是,O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,中国银行
+你这真够乱的……没办法帮你……,O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O,2,工商银行
+建行还能曲线？,B-BANK I-BANK O O O O O,2,建设银行
+★★★★★工商43农业1中国123建设51,O O O O O B-BANK I-BANK O O O O O B-BANK I-BANK O O O B-BANK I-BANK O O,2,其它银行
+老油子是哪个银行，建设银行？,O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O,2,
+楼主，融e借的钱，是放款到工行储蓄卡了？。,O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O,2,工商银行
+招商别想减免,B-BANK I-BANK O O O O,2,招商银行
+17㎝的来回答下，我工储蓄卡是外省，目前在户籍地上班了，申的无界卡下了20，然后实体本地死活也不给了。到是外省的储蓄卡有预审批额度，所以本地储蓄卡还是有点好处的。我...,O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,工商银行
+有参考价值，我同事75000。下卡61000.我5万。下卡就5万。,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,工商银行
+这月初，发现最近半年，所持卡行都没啥活动，平时刷卡也没动力；,O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,中国银行
+都准备推大山白的人了，拒了再换卡推过的,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ O O O O O O O,2,建设银行
+就是你用融e借还了信用卡造成的风控，你不能用工行借记卡入帐的贷款直接还信用卡，为什么不转到他行借记卡上再还款呢？...,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK O O O O O O B-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,工商银行
+老哥无界下卡，又推实体卡没有，我昨天刚批了无界，不知道后续怎么操作了,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+融e借同样的额度，已经全借出了。然而没有曲线,B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,工商银行
+这个卡有代码吗，我去网点都说没有,O O O O O O O O O O O O O O O O,2,工商银行
+找不到，地方性活动吗？可能是工行针对你们那的活动吧,O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O,2,
+点提固定到19K，不要填23K,O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O,2,中国银行
+招商邮储兴业中信,B-BANK I-BANK B-BANK I-BANK B-BANK I-BANK B-BANK I-BANK,2,招商银行
+这是从哪个途径查的信报？,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+两张50四张70,O O O O O O O O,2,招商银行
+我逾期3个多月了，不知道啥情况，你逾期期间接过电话，还过吗,O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,招商银行
+上来就白金？？,O O O B-PRODUCT I-PRODUCT O O,2,民生银行
+月末积分周,O O B-PRODUCT I-PRODUCT O,2,工商银行
+没告诉你原因?为啥额度这么低,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ,2,
+那就不搭理,O O O O O,2,交通银行
+可能我撸的太猛了，月月刷50%,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,中国银行
+后续呢，老哥？:(,O O O O O O O O O,2,工商银行
+是的，拿券，招行的很划算的,O O O O O O B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+为什么？我的信用卡额度这么低,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ,2,
+跟你一样是送来的,O O O O O O O O,2,民生银行
+来大山东试一下,O O O O O O O,2,工商银行
+冲啊兄弟们！这个活动很给力,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+刷卡姿势有问题吧,B-COMMENTS_N I-COMMENTS_N O O O O O O,2,民生银行
+被发现了等着接电话要求还上吧??风控老严了??信用卡严禁流向股市仿房房地产,O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O,2,
+今天在加油站用applepay支付，半天也没付成，干脆刷卡了，然后开宝箱开出来10块小额免密的红包，改天试试吧,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O,2,交通银行
+和我一样，原来卡名额是23000，我自己申请的。,O O O O O O O O O O O O O O O O O O O O O O O O,2,交通银行
+我们申请了第二批3000取消重新申请卡工作人员上门卡1，建行的就取消了,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O,2,
+"2021年05月20日招联消费金融有限公司发放的99,000元（人民币）其他个人消费贷款，2024年01月19日到期。截至2021年05月，余额50,000。楼主是这个吗??...",O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O,2,
+我也是前几天下了这个卡昨天刚刚收到卡片，还没有终审激活。如果没有降级批卡的话应该最少1万起步。如果降级成金普批卡大概率低于1万额度。...,O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,中信银行
+分期没有,B-PRODUCT I-PRODUCT O O,2,建设银行
+直接干大白山啊,O O O B-PRODUCT I-PRODUCT I-PRODUCT O,2,建设银行
+我的也激活了，这个没有实体卡么？为什么我问客服，客服回答正在制卡，请耐心等待，刚才激活了，看进度也没显示卡片激活，跟以前一样显示已开户...,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,工商银行
+云闪付呀，秒还，为什么用支付宝,B-PRODUCT I-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+可以，就是下卡五万就很难再提上去了,O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,建设银行
+过来人告诉你会增加提额周期,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O,2,招商银行
+不知道，看银行兴致，她们开心就高,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+分没用就好,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,民生银行
+不懂他们打过来是干嘛的，气愤,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+没逾期，网贷多，花的不能再花了,O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-PRODUCT I-PRODUCT B-COMMENTS_ADJ O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,建设银行
+每个月固定月头查一次，月尾查一次。,O O O O O O O O O O O O O O O O O,2,建设银行
+很容易得到。？,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,民生银行
+你这个是信用卡，不还钱一直不协商，肯定银行要从你工资扣了，在不解决你的卡就冻了,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+没有关系，就是现在自动扣?年费都是自动扣的,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,
+大山白还没见过,B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,建设银行
+为什么不能？价格合适就能卖成，还有租,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O,2,工商银行
+你说的都是废话，除非你不是本地人，要这个身份证是不可能的，异地。,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O,2,中国银行
+不是新户，年费好像是1800吧,O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O O O O O O,2,民生银行
+你这是建行首卡吗？已经几行信用卡了？,O O O B-BANK I-BANK B-PRODUCT I-PRODUCT O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O,2,建设银行
+积分变得不值钱,B-PRODUCT I-PRODUCT O O O O O,2,中国银行
+工行储蓄卡888888885需要多少钱呢？在线问,B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,工商银行
+以前销过卡？注销过不行吧,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,
+看自己吧，只能说大多数人下的都是菜卡必然会曲线销卡，累计起来看着还是很烦，一下卡毕业倒是无所谓,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+确定是黑的吗，那我就放弃了,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我蹲了好几天，今天一把抓住了,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,民生银行
+多少砖算很多？,B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+有车房贷，大妈最喜欢了，征信好额度可以达到车的总价百分之60以上，减去剩余的车贷。,O O B-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O,2,工商银行
+我5万额度，5w挡,O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,招商银行
+最好先无界破黑,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+可以现场申请提额，递交其他财力证明。,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,中信银行
+长期业务不征税。,O O O O O B-COMMENTS_N I-COMMENTS_N O,2,中国银行
+什么码这么靠谱？,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+骗子套路,O O B-COMMENTS_ADJ I-COMMENTS_ADJ,0,民生银行
+A????90????1????1.????5000.????600.????55.3,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,
+6.67E+23,O O O O O O O O,2,
+然后你的签名没它，是不是销了，我觉得要注销,O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,
+支付宝微信多么？,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,中国银行
+还有我觉得苏州的银行都很多事，各种刁难外地人,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,0,工商银行
+国贸白，迷你白,B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+我刚用了E招贷，看我黑一年半吧,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,招商银行
+打这电话有用吗？,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,农业银行
+一般的卡是，白金卡网点理财经理办理,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT O O O O,2,招商银行
+南航标白能到12万吗？听有一些网友说标白卡10万封顶呀，你是怎么办到的呀，学习下,B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,民生银行
+这个是啥？新户礼？分享一下路径呢,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O,2,农业银行
+只有joy卡能改变卡,B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,建设银行
+我给招商银行打电话已经不管了，然后只能他们这些联系我，法务部，材料组让我提供取保候审人什么的，就说立案了以后我不配合，就算还款了，也会有刑事责任，说我们当地有...,O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O,2,招商银行
+申招商时工作单位换了吗,O B-BANK I-BANK O O O O O O O O,2,招商银行
+涉案了司法冻结，最快半年以后的事了。自己要是没啥就去跑一趟，能解决的！,O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+我跟你差不多,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+你有没有什么大佬，,O O O O O O O O O,2,
+借几次了，没提过，借多少借多久都没关系，利息是按天收的，我的2w利息3块左右一天,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,工商银行
+是你有一个店可不是征信查询,O O O O O O O O O B-PRODUCT I-PRODUCT O O,2,工商银行
+拿500万砸他脸上，恶心,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+什么平台出的,O O O O O O,2,民生银行
+哦，都下架了？还是我个人？有可能恢复吗？,O O O O O O O O O O O O O O O O O O O O,2,工商银行
+肯定不靠谱啊，钱还了再帮你申请这是话外话de,O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O,2,工商银行
+说的貌似挺有理，其实完全没在点上。重点在于账户数没用了，重要的是机构数，机构数影响多头授信的判断。10行每行1账户构成多头；而单行100账户不构成多头...,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O,2,工商银行
+骚操作，有点恶心,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+多谢了，那我的招行信用卡也快到了,O O O O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,
+我也是周五申请的。你到了吗？好担心,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+首提是多久,B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+申请的招商银行已经显示总授信太高拒绝了，论坛大佬都说是显示40万，民生APP里面的固定额度也变成46了,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,民生银行
+????五月份用10k买了四个星期07009，2.3k买了一个星期速盈，六月份18k买了三个星期07009，用五k买了一个星期速盈，天天签到在申卡前升到三星级。,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ O O O O O,2,
+我从来都是用云闪付还信用卡,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+从哪里测额度亲,O O O O B-COMMENTS_N I-COMMENTS_N O,2,中信银行
+恭喜，慢慢养卡。,B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,1,招商银行
+傲娇的银行，现在我都不敢申请，哎，之前招行还是不错的,O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+666没办法只能等，公安冻结你没法干涉除非背后有人。,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O,2,招商银行
+。。无语，我在工行大厅被推荐的基金亏的一塌糊涂,O O O O O O O B-BANK I-BANK O O O O O O B-PRODUCT I-PRODUCT B-COMMENTS_ADJ O O O O O,2,
+刚刚收到的短信，他这是几个意思？发信息也不回。,O O O O O O O O O O O O O O O O O O O O O O O,2,中信银行
+哭T﹏T太伤心了，我的一直没批下俩啊,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O,2,
+来都来了,O O O O,2,工商银行
+中信1k怒销,B-BANK I-BANK O O B-COMMENTS_ADJ O,2,中国银行
+最低的话，每个月利息不低啊。,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+我也不知道算不算提供了社保公积金，小姐姐只是让我在招商银行app加入社保公积金，没有看明细。然后新办张储蓄卡往里面打1000块。总的来说还是带证明能下高点额度，老哥...,O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,招商银行
+先把恒丰、猴子消掉，养一养招行，看看能不能提，不能提的话，把民生销掉，再养招行，要是招行能提额了，就留着招行，一直养招行，要是招行还是不提，就销掉。期间看看工行...,O O B-BANK I-BANK O O O O O O O O O B-BANK I-BANK O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-BANK I-BANK O O O O O B-BANK I-BANK O O O B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O B-BANK I-BANK O O O O B-BANK I-BANK O O O B-BANK I-BANK O O O O O O O O O O O O O B-BANK I-BANK O O O,2,工商银行
+是走的有卡通道还是无卡通道？都需要时间耐心等待吧,O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,
+不是点进去就代码？,O O O O O O O O O,2,农业银行
+我几乎每天刷卡，不管大额，小额坚持每天刷，我的额度从6k到58k，除了首提用了10个月，其他都是3个月一提，从不间断。个人建议不要当天先还款再刷卡，不要分期。还有不...,O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O B-PRODUCT I-PRODUCT O O O O O O O,2,招商银行
+老哥每个月套空?套现么？,O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,
+一般都能下啊，有房贷车贷都可以,O O O O O O O O B-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT O O O,2,
+哇哦，这个额度可以了,O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+这么悲惨呀。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+建行有公积金贷款能下吗,B-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT O O O,2,建设银行
+老铁，你是6/10去面审的吗？还是面审以后几天才开始出去受理页面？我下周要去银行面审了。你这期间信用卡用过吗？,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,工商银行
+80存了多久才申的呀？,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,招商银行
+实践是检验真理的唯一标准。还是建议你销了3w的，万一二卡没匹配9w匹配3w就一场空，注销了也安心,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+塞翁失马啊，挺好,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+绑微信，支付宝，云闪付,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+仗义每多屠狗辈，负心多是读书人。,O O O B-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ O O O O O,2,招商银行
+傻,B-COMMENTS_ADJ,2,工商银行
+交通优逸白金燃卡:12K,B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,中国银行
+二星用户，狗日滴，啥时候升，建行小姐姐,O O O O O O O O O O O O O O B-BANK I-BANK O O O,2,
+唉疫情耽误了没办法,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,0,建设银行
+这个尊尚白??能免首年吗？,O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,
+这是哪个APP查询的？我怎么没有这个界面？,O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+我申请了农行的国家宝藏信用卡，秒批,O O O O B-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O,2,
+用得上就值，用不上刚性年费就有点吃不消了,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,招商银行
+等双节或者普提吧。,O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+下的卡年费但是没啥问题，但是不知道留下来这个额度对以后下其他卡影响大不大,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,中信银行
+富贵险中求,O O O O O,2,建设银行
+先用一年再说吧！反正首年免年费！,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,交通银行
+不还不上征信但是一定会上芝麻负面和起诉,O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O,2,工商银行
+我准备组合贷的，好不容易才把所有需要的文件准备齐全，结果今天售楼部说银行那边公积金准入还没有办好，太坑了。公积金贷款有时效性，我都好几个月没敢使用信用卡了，都...,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O B-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O,2,工商银行
+不建议还最低。一两期还行。还最低多了还会降，,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ O,2,工商银行
+确定是被拒绝了吗？现在还是在审核处理中，请知道的给说一下,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O,2,中国银行
+我申请的农行悠然10k,O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT O O O,2,
+我一万到一万四也是试了三次才成功，中行代发工资,O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O,2,中国银行
+激活之后随意加办金普卡不查征信,B-COMMENTS_N I-COMMENTS_N O O O O O O O B-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT,2,招商银行
+用了很多年的储蓄卡，以前是交物业水电费的，后来这套房子卖了就没怎么用了。近一年来每个月从其他行或zfb转钱进该卡还,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+贷款审批吗,B-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+732天了，10k没变过，哈，我要去注销了,O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,
+找中介，300快，2天。很方便的,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我去太羡慕了,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+广发鼎极白,B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+不知道，我第一次遇到，也不急等着吧,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,
+玉国兄恭喜,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,1,建设银行
+搬砖，代发。认钱不认人的,O O O O O O O O O O O O,2,工商银行
+叫个老农大妈活塞运动，量量有多高？,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,农业银行
+临额没断过，希望6+1能成功首提,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+5万的卡是本地的还是深圳的？,O O O O O O O O O O O O O O,2,工商银行
+刚试了調额成功,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,中国银行
+不要灰心，招商银行应该是最好提的银行了,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK I-BANK I-BANK O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+我也收到了估计假的没看见审核信息,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N O O,2,中信银行
+对，对，111111,O O O O O O O O O O,2,工商银行
+我是五卡秒批建行，六卡秒批工行。,O O O O O O B-BANK I-BANK O O O O O B-BANK I-BANK O,2,工商银行
+2、18.09招行车主卡47k,O O O O O O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O O O,2,招商银行
+兄弟你这是在跟人机聊，它今天都已经发了一百多条贴子出来了，每条贴子都是随便瞎编的，你点它头像看看吧，以后看到头像和名字都没修改的并且半小时内发贴超过10条的而且...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+有点乱我的显示是可以分期10万借了5万??固定额度按照可以分期款x2显示的并不是按照你借了多少来的不知道这个是系统直接生成还是人工就是怕授信显示太高才弄5万结果...,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O,2,
+月月刷爆？这么牛么,O O O O O O O B-COMMENTS_ADJ O,2,
+大佬??你能在每天零点准时更新答题答案吗？,O O O O O O O O O O O O O O O O O O O O O,2,
+领券分期还可以全免手续费！,O O B-PRODUCT I-PRODUCT O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O,2,招商银行
+如果买短债，一个月赎回四次，这样跟一个月赎回一次，对于升星来说有区别吗？,O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O,2,工商银行
+现在下卡就能秒激活，真是太方便了,O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ O O O,2,交通银行
+日均几百万，太恐怖了吧,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+是的，工行总部收到异议申请后，大概一个星期，你的呆账就没了！,O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,中国银行
+信用卡一切操作都是贷后啊，除非容易借才是审批,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N,2,工商银行
+Find卡职员。为什么他们总是放这个卡？真的很无聊?,O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,民生银行
+应该是彩票涉嫌洗钱了吧，只要参与的账户都冻结了,O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+没有姿势公积金暴力提。,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,工商银行
+我也在用??实在顶不住偶尔用下，不敢一直用，怕被封卡,O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O,2,
+我之前开了2卡就这样分期也没了等过阵子就正常了,O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,中信银行
+看运气了，首卡也是这额度，现在8.4,O O O O O B-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,工商银行
+现在有了，晚上7点多出来了……效率还比较高,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+靠，白金卡还有这福利？我特么金卡就只有一句生日快乐，早知道办个白金了,O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,工商银行
+话费还可以。刚用了50，都可以用的,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+高端大气上档次，年费能赚回来吗……,O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,民生银行
+这个月还款发现被锁定，93003531不能分期，融易借5万，,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT O O O O O O O,2,工商银行
+问题是怎么解决5万以上的后续问题呢？达不到10万都是弟弟，至少工商有大概率可以获得10万的，建设的话，大白山有点累...,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O B-COMMENTS_ADJ O O O,2,建设银行
+主要是房本。额度就不会低,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ,2,
+你这个卡牵扯到案件了吧，有点危险啊,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+老哥3W额度刷20个压力不大吧，我2W刷20个压力不小,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+我记得客服曾经说过广东地区暂时没有蓝牙。,O O O O O O O O O O O O O O O O O O O O,2,工商银行
+那就一直负数了嘛客服回复完就没下文了嘛，太扯了,O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+建设银行提额很慢的……,B-BANK I-BANK I-BANK I-BANK B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,0,建设银行
+一般都是总行授信，本地觉得不合适降的，联系本地卡部核实提交资质证明,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O,2,工商银行
+NND，才给我8K。是打发要饭的呢。。:Q:Q:Q:Q 破兴业,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK,0,
+销户了还有14个账户吗,B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+秒通不是直接来尾号额度短信？,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,工商银行
+我是去开通了一下不需要密码器,O O O O O O O O O O O O O O,2,工商银行
+我点太早了上午点的估计得等着次临额过期才能提了,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,工商银行
+恭喜楼主。我预审批10k，网申joy卡才8k，现在还没去激活，纠结,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,1,建设银行
+名额多少,O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+办哪几家好，目前0卡，招商要上门拍照应该,O O O O O O O O O O O O O O O O O O O O,2,招商银行
+这种情况再去申请减免的几率很小。判决金额应该是是最低限了，其他的银行的可以免除。如果你现在能够一次性偿还，那是最好的，千万不要抱着，钱在你手里，你可以不还这种态...,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+又是一个有故事的人！,O O O O O O O O O O,2,中信银行
+额度查到了吗,B-COMMENTS_N I-COMMENTS_N O O O O,2,建设银行
+好歹有提醒我是直接为0,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,工商银行
+搬几十块砖肯定会有效果,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,建设银行
+哥，被拒绝后不是说隔一个月才能再次申请转卡吗,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O,0,招商银行
+活该，优质客户卡得SISI的，不良的猛的给钱,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,民生银行
+卡太多能养的过来吗,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,工商银行
+欠款金额可以申请60期。再努力,O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,民生银行
+我1月逾期9个月了，一天30个电话好可怕的，现在欠九千多，没钱处理,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O,2,交通银行
+也不一定。我卡都5张了，还有借呗，信用卡都用了不少，也没说多头授信,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-PRODUCT I-PRODUCT,2,建设银行
+如何激活,O O B-COMMENTS_N I-COMMENTS_N,2,中国银行
+没卡员？找个卡员办了手机激活就能用,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,民生银行
+4a都有可能，以上估计没了,O O O O O O O O O O O O O,2,工商银行
+说多都是泪,O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N,0,招商银行
+支付宝不是直接到吗？,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O,2,工商银行
+办了白金就六星。。。没啥用,O O B-PRODUCT I-PRODUCT O O O O O O O O O,2,工商银行
+这也太惨了吧,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,0,工商银行
+我有几个电话，但是不知道怎么办。好几天了。,O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,交通银行
+是不是刷卡姿势不对,O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,招商银行
+老哥怎么用的啊？,O O O O O O O O,2,工商银行
+民生喜欢分期,B-BANK I-BANK B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT,2,民生银行
+白金卡年费我是用大额定存解决的,B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,工商银行
+如果真有水的情况下，你可以试试，目前的情况建议你别送人头了，还有，要知道你是哪年逾期的,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,建设银行
+这额度还好了，如果是10万以上，一下子授信增加20万，那是真的完了,O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+一个月转转限额100万，去补个盾还没有，真是店大欺客，废了以后改用招商方便，服务也好,O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O B-BANK I-BANK O O O O O O O,2,工商银行
+有能力就去网点，没能力就等，不用着急,O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+兴业兴动力：34K-44.2K-61.9K-80K-110.2K-145K,B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,民生银行
+快贷很少套路的，利率还低,B-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ,0,建设银行
+工商数字无界卡30k,B-BANK I-BANK O O B-PRODUCT I-PRODUCT I-PRODUCT O O O,2,工商银行
+手机闪付多好用，话说我就是一直二维码，咋了？,O O B-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O,2,招商银行
+额，那会导致什么后果,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+这个圆梦金我就被它坑惨了，还是不要用了,O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,中信银行
+cl卡可以扫码,O O O O O O O,2,工商银行
+兄弟已经试过了吗？提额提了多少呀,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,
+标准白金和汽车白金卡,B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,民生银行
+5.2招商3-6k+临13k,O O O B-BANK I-BANK O O O O O O O O O,2,工商银行
+工商◆2W,B-BANK I-BANK O O O,2,建设银行
+没看到别的。放弃吧,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+这是那个卡种啊我也去试试,O O O O O O O O O O O O,2,民生银行
+好弄？？,B-COMMENTS_ADJ O O O,2,民生银行
+找第三方介入协商，很快的,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+四大里面把老农放到最后申请比较好,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,农业银行
+6000下了5万？真牛??是在网上申的,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,
+问题有点严重了。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,建设银行
+业务员来办理，就很快的,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+哈哈哈，我的兴业随便一申请就是50K,O O O O O O B-BANK I-BANK O O O O O O O O O O,2,
+忽悠你！我有工行大白黑白菜，想申请一个星座金卡。都秒拒！,O O O O O O B-BANK I-BANK O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_ADJ O,2,工商银行
+为啥我也不知道，09年办的交行卡不到一万，从来没分过，现在额度15万。,O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,交通银行
+检查你的流水！只要建行给我快速贷款，我就敢,O O O O B-COMMENTS_N I-COMMENTS_N O O O B-BANK I-BANK O O O O B-PRODUCT I-PRODUCT O O O O,2,建设银行
+上个月是2万档，最低25,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,招商银行
+额度没要求.就是想要权益,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,招商银行
+先别激活，再申一张看看额度会不会变,O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,中国银行
+招行：标准金65k,B-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT O O O,2,民生银行
+只有这两万，主要是提前结清利息全扣不划算,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,工商银行
+大额好说银行放出来的二维码部分银行免收手续费??我家有农行的一次扫几万都没事,B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O B-BANK I-BANK O O O O O O O O O,2,
+晚上夜宵的时候额度就有了,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,工商银行
+拒了？,O O O,2,工商银行
+首卡啊，只给3k，简直了。这个中信的额度啊,B-PRODUCT I-PRODUCT O O O O O O O O O O O O O B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O,2,
+0.25已经很低了，8万一笔肯定可以滴,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O,2,建设银行
+我这里跨省的信用卡账户目前调整不了,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O,2,工商银行
+老哥，你贷款过了没？我也遇到这样的问题，信用卡有分期。,O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT O,2,工商银行
+工商没那么容易。,B-BANK I-BANK O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+有时候有有时候么有，这个月直接刷空了，刷了6.9。也不给固定额度,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N,2,
+对的，线上的都是垃圾白金,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT,2,工商银行
+拿到了，信用卡额度拉平，然后当天还，用信用检查，,O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O,2,工商银行
+你可以尝试在微信微信官方账号上修复，看能成功不,O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+坛子里普遍认为，2万以下可以申芭比白有机会曲线，因为芭比白2万起步的，为什么能曲线到5万,O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O,2,建设银行
+一样，不知道怎么回事……,O O O O O O O O O O O O,2,工商银行
+这个征信上也显示两倍吗,O O B-PRODUCT I-PRODUCT O O O O O O O,2,民生银行
+老哥不错??我是看来提额无望了,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+那就对了借钱显示双倍的+固定额度,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,民生银行
+照前边说的这样也有后患，因为不知道接收现金的人会把钱用来干啥,O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O,2,工商银行
+多少算是毕业，现在才十几个??,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O,2,工商银行
+香白,B-PRODUCT I-PRODUCT,2,工商银行
+我黑龙江的卡五一时候去山东办激活开手机银行都可以，建行有一张卡当年忘加挂手机银行了，回苏州建行网点告诉我要居住证明，工作证明，社保证明才能开，就连加挂都等同于...,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+没有出诶，不管了，佛了,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+以为发大水了，结果通过之后又拒绝,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+怎么用卡呢,O O O O O,2,工商银行
+大家去看看?你确定不是智商税？,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+快出帐单日了吧,B-COMMENTS_ADJ O O O O O O,2,招商银行
+外面的智能柜员机办理普卡。然后普卡升级。要一个星期左右。然后再去网点换卡,O O O O O O O O O O B-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O,2,招商银行
+v妹，老哥我负债卡多风险小很多,O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+你们社保卡要那么久才能拿动？我在工行，申请社保卡10分钟就拿到了现场有机器直接出卡,O O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+请问是郵寄的首卡吗？,O O O O O O B-PRODUCT I-PRODUCT O O,2,民生银行
+三年了，一直想要，才拿到手，太开心,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+我的最优就是全额，不知好事还是坏事,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+e招贷没有用的话目测这一期账单日第二天会提,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,招商银行
+年初工商运营下的3k，年底卖出，没提金额。,O O B-BANK I-BANK O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+我也是这样，显示可调临时，可调固额，一申请老是拒绝,O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,中国银行
+我的过了18.3万，银行很好了,O O O O O O O O O O O O O B-COMMENTS_ADJ O,2,
+能过的写自由职业一样过，写好听点就是了，比如自主经营之类的，职位确实要写高级管理之类的，已婚大专收入高点都是必须的，四大行第一次没推倒就做好长期推的准备吧。水电...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+谢谢，我从来不想银行理财哪些事,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-PRODUCT I-PRODUCT O O O,2,
+广发现在提额也慢了，2年没提额了,B-BANK I-BANK O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N O,2,民生银行
+无卡通道是什么，怎么申请的，我也想搞，不知道在哪里，心累啊,O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+0755现在人在一楼商务贵宾楼，我不想在这里呆着，想去四楼休息室看人看风景。在线等求还有什么办法可以快速安检。四楼休息室可以使用龙腾，但是没有快速安检。有,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+对自己征信有信心的点吧，好像不会自动出额度的，,O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+可以，只需搜索你的本地区号进行座机转接即可。银行打你的座机号码，通了就批的额度高点,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ O,2,
+分期大法跟风下卡50000，普提一次，65000。,B-PRODUCT I-PRODUCT O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O,2,民生银行
+QB没有分快Q有我在用自备鸡亲测有分,O O O O O O O O O O O O O O O O O O,2,民生银行
+我招行的逾期一年半都没协商下来，这次还是自己主动联系银行了，如果没协商下来就要投诉到银监会了,O B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,中信银行
+放心上，额度可能还不低,O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,民生银行
+正常正常，额度是慢慢提起来的,B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,
+这预审批可以冲下大山白,O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,建设银行
+毕业转卡成功3k到10k，兴业耶,O O O O O O O O O O O O O B-BANK I-BANK O,2,
+不是说代发可以免吗。。。免费不香么,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+如果被起诉，是要还本金吗？逾期后产生的利息还要还不,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,工商银行
+不知道，工行5000和建行14000已经一年多了。,O O O O B-BANK I-BANK O O O O O B-BANK I-BANK O O O O O O O O O O O O,2,中信银行
+招商资质行的话异地容易过，也不刁难，就是以后提额难！,B-BANK I-BANK O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ O,0,招商银行
+可以了看开点吧，活着最重要,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+看重点，小黑屋可以提额。破了论坛黑屋不能提额一说,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O,2,招商银行
+我到期3天了有点慌,O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,农业银行
+电话上有说什么费率吗？我感觉是稳的，这个卡办下来是你在帮银行的忙，银行在求你办呢,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O,1,建设银行
+哎，估计凉凉的多,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,0,中国银行
+？？？你这是什么意思？？？凡尔赛是什么？？？,O O O O O O O O O O O O O O O O O O O O O O,2,中国银行
+华夏不行，肉测过……,B-BANK I-BANK O O O O O O O O,0,工商银行
+这年头业务员为了业绩什么忽悠话都说得出来,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,交通银行
+同昆明我给你支个招，你去北京路支行开个财富卡，然后就是六星，平常多用这个卡，消费，三个月左右，就能下了，我一个学生，用这个方法，下卡20k，...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,工商银行
+直接拿下，就这资质，吓他蹦一下，额度不高才怪,O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+最好多老铁都下了悠然白，你二卡推悠然白应该好下！,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,农业银行
+已经达标多日，但还是无法领取新客礼,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,农业银行
+借出来,O O O,2,工商银行
+，简称“婉拒”。,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,中国银行
+那我网上申请，激活的时候还是要被刁难。这也太离谱了。,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,0,招商银行
+支持啊??我就是异地网申异地面签....,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O,2,
+当日到期，第二天就没额度了，需要等一两天重新申请额度，如果额度到期之前借出来，那你就按着计划还就可以了,O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O,2,中国银行
+是信用卡还不起，要十二万一次还清,O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O,2,建设银行
+你现在还保留几张,O O O O O O O O,2,工商银行
+我融e借额度还没有卡的额度高,O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ,2,工商银行
+利息优秀，额度正常。,B-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+话说调额这一步，打电话给客服让客服调不知道行不行，或者申请二卡的方式,O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O,2,工商银行
+芝麻分多少。秒过吗,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,民生银行
+和小招的已婚美国运通卡,O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+民生银行发短信了，请问是真的吗,B-BANK I-BANK I-BANK I-BANK O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+被风控本地客服会电话提醒马上还上，不还就会送报上级挨罚,O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+点了基本不给填，让你去网点，ae白和钻石卡理论上也都可以网申,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O,2,招商银行
+几毛没有名额，起来迟了，8.30才起(???_??)?伤心了,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+为什么呢？以后额度上来后，我也想升生肖白,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_ADJ B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+万28花4.5微博3，感觉不错,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+后面老哥也没弄有起诉了嚒我是逾期4个账单日了,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O,2,中信银行
+会的，我买的基金持有两年,O O O O O O B-PRODUCT I-PRODUCT O O O O,2,
+民生47K,B-BANK I-BANK O O O,2,招商银行
+老哥你今天恒丰有50%临额吗,O O O O O B-BANK I-BANK O O O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+花钱办U盾，50一个,O O O B-PRODUCT I-PRODUCT O O O O O,2,工商银行
+浦发男性有为白21→29→39→79K,B-BANK I-BANK O O O O O O O O O O O O O O O O O,2,招商银行
+我就一年首提黑了一年多,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,招商银行
+这个好过吗？,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,建设银行
+我也是，搬砖断不了。不然穷啊,O O O O O O O O O O O O B-COMMENTS_ADJ O,2,
+应该婉拒了。。,O O O B-COMMENTS_ADJ O O O,2,农业银行
+建行的问题，再试试，前几天我的也是这样,B-BANK I-BANK O O O O O O O O O O O O O O O O O,2,招商银行
+小贱太特么抠门了，区区几十万积分就这副嘴脸。,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O,0,建设银行
+别网申了去当地卡部,O B-PRODUCT I-PRODUCT O O O O O O,2,工商银行
+小昭买70个理财也没用，不看这个,O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O,2,招商银行
+现在咋样了楼主，这么郁闷的,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我到门口一个星期就拿到了。很快的啊,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+无界卡或者单币卡,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,工商银行
+"就是4.3w的本金，加利息5,2万",O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O,2,招商银行
+这个是要等他自己出额度，还是要点,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,工商银行
+现在改名叫银保监会了??这事应该是银保监会管,O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O,2,
+升级2000年费大白金，每年可回本3500,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_N I-COMMENTS_N B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O,2,中信银行
+是的，需要去柜台修改现在的手机号码，我上午修改，下午申请就直接批了3万。招行的，还行,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+可以借出去吗，打招行客服问问,O O O O O O O O B-BANK I-BANK O O O O,2,
+领什么券,O O O O,2,招商银行
+老哥，零时要不要全部刷完，我现在才刷了三分之一，会不会对额度有影响,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+大山8万起步，我大山批了，额度还是8.7w没变,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O,2,建设银行
+招行也不打公司电话核实吗？,B-BANK I-BANK O O O O O O O O O O O,2,中国银行
+你看这么多帖子，你总归能看到两眼，只不过这个盾有点困难，而且很多都收钱。,O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+不用担心黑房子，好像黑房子还在提金额,O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ O O O O O B-COMMENTS_ADJ O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N,2,招商银行
+弟流水这么大？,O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ O,2,中国银行
+浦发_23k,B-BANK I-BANK O O O O,2,民生银行
+悲剧了，优惠出来了，结果不支持信用卡支付:o,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+征信上面没有任务逾期记录,B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+我五万用一年，昨天才提五千，10%幅度，这提额的速度,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+是不是有实体卡，有的话说一声,O O O O O O O O O O O O O O,2,工商银行
+我一直说别急，,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+逾期多久了？,B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+也是还款吗,O O B-COMMENTS_N I-COMMENTS_N O,2,工商银行
+1000以下不是0费率吗？反正浦发就是的,O O O O O O O O O O O O O O O B-BANK I-BANK O O O,2,
+我就是申请提前结清提了30个点，不过前天被警告了，说我把资金流入股市，以后要注意，不然会降额，怪不得客服给我打电话还敢忙别的事，让我等一下，我就感觉不对劲...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,民生银行
+广州吧??反正不可能深圳，省会还是灵活写,O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+3个月，基本都可以提额了,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,
+去年9月底下卡的，同没临时没固定，征信没查过，不知道啥情况！只能随缘。,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+影响力！我只是底子低?现在总金额太低了?后续申请，,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,0,工商银行
+嘿嘿嘿，连续四个月，笔数为20笔，50笔，65笔，巩固65笔。四个月能把总额度消耗75%额度提起来很快！,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,招商银行
+无所谓啦,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+应该是app错了。“APP、网银年费显示不准确，系网银自动抓取标准年费记收算法所得，部分特殊政策卡种年费不准确，如奋斗白金卡、星座白金卡、上海旅行白金卡、半岛菁英白...,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O,2,工商银行
+一语中的，说的太好了。手动点赞！！,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,1,招商银行
+亲身经历，面签不刁难的，但是想保证通过或者额度高点，带点证明比较好，我带了工牌，提供工资流水和社保公积金，下卡额度15k参考一下。老哥们就一张身份证也没说错，但是...,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O,1,招商银行
+应该是3000，还是看最终审核额度吧，也有可能恢复到原来的8000.,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O,2,招商银行
+我也出推荐额度了不过我觉得不靠谱，怕送人头,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+我也不信，楼主选择性忽略的某些重要的行为,O O O O O O O O O O O O O O O O O O O O,2,工商银行
+没用，你看我的,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+卡多t方便啊，同样三万，十行走一圈小额完事了。一行想快只能大额,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N,2,工商银行
+我也周五申请的，你到了吗兴业的,O O O O O O O O O O O O B-BANK I-BANK O,2,
+建行第二个，工商第三个。你已经十行了，小贱有些难了，销3-5行再试试吧。,B-BANK I-BANK O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O,0,工商银行
+我说500万都够钻石卡了，那理财经理说了一句我们工行门槛就是这么高,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O B-BANK I-BANK O O O O O O B-COMMENTS_ADJ,2,工商银行
+收割人头了，群发能收一个是一个了，别上当哦,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+查冻结原因,O B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+平，买基金能平也可以，至少没亏,O O O B-PRODUCT I-PRODUCT O O O O O O O O O B-COMMENTS_ADJ,2,
+建行从去年夏天开始就不用填固定电话了,B-BANK I-BANK O O O O O O O O O O O O O O O O,2,建设银行
+惠民贷款预批额度在哪里？你能给我发张照片吗？,B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,交通银行
+民生据说有点问题,B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+Cut卡为什么！我们农行是三级卡！太过分了！切两个！如果现在不影响，可以取消存款卡??,O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+另外一个可选择的：广发白金，额度高，权益好。活动期内不用刷，绑定vx，zfb即可免年费。,O O O O O O O O O B-BANK I-BANK O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+我的也出现了，是正常的,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+不晓得诶，我也还在耐心等待,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+简单的说，就是外地的卡可以到另外一个城市办盾，这个不冲突。,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+还有，我才办的建行新用额度还可以,O O O O O O O B-BANK I-BANK O O O O O O O,2,
+先搞分期通,O O B-PRODUCT I-PRODUCT I-PRODUCT,2,建设银行
+就别人的转账啊，才800多块，金额也不大,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+申请的兴业信用卡，快半个月了，没动静,O O O B-BANK I-BANK B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,民生银行
+只扣706吗，收到货还扣不,O O O O O O O O O O O O O,2,工商银行
+社保卡还送东西？酸了,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+要记得还款啊因小失大,O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,招商银行
+我也收到此类短信，群发的吧，所以没用，不用担心,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+查过了，积分明细那里除了网络支付和大额有，闪付没有积分,O O O O B-PRODUCT I-PRODUCT O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O B-PRODUCT I-PRODUCT O O B-PRODUCT I-PRODUCT,2,工商银行
+标准白吧,B-PRODUCT I-PRODUCT I-PRODUCT O,2,民生银行
+浦发梦白金属178k,O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O,2,
+微信关注上海信访，你会得到满意的答案,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,
+解析了就没问题了？网赌不是触犯法律吗，你们太狠了,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+0769我没有菩提?问了两个有中信卡的同事，今天既没有,O O O O O O O O O O O O O O O B-BANK I-BANK O O O O O O O O O O,2,中信银行
+也算是2天吧。早上申请下午打得电话！让后隔天早上通过工商银行的哦,O O O O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O O,2,
+最近我刷了好几次都没有，机器换了几台也没有封卡啊,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,0,
+大山白还要操心年费，像我交过一次1800后就消了。,B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O,2,建设银行
+联系银行好好沟通,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,招商银行
+是这两个，微信支付宝扫66达标，目前有名额,O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O,2,民生银行
+卖了，9个月了，没还什么金额,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,建设银行
+有一分到下期账单了吧,O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,中信银行
+怎么处置积分？7万6,O O O O B-PRODUCT I-PRODUCT O O O O,2,招商银行
+3年?应该没问题?他很乐意只还本金?我也是。谈判进展如何？,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O,2,工商银行
+建行很看行数越早下越好建行提额感觉也挺慢,B-BANK I-BANK O O O O O O O O O B-BANK I-BANK B-COMMENTS_N I-COMMENTS_N O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,0,工商银行
+账户数多少其实无所谓：在银行版信报里面不起眼，也不构成小昭小贱等厌恶的多头授信,B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_N I-COMMENTS_N,2,工商银行
+没有工作人员，感觉不能成功啊,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+问题没资格怎么搞,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,工商银行
+中原10k没激活,B-BANK I-BANK O O O O B-COMMENTS_N I-COMMENTS_N,2,建设银行
+招行投诉也没用很硬气的已经起诉了,B-BANK I-BANK O O O O O O O O O O O O O O,2,中信银行
+021，0.4这个利率怎么样,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+广东能给你都不错了，0755基本不给:L,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O,2,工商银行
+好的那我就先不申请，耐心等待,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+我也不会算这个，反正收到短信的原话是近似折算年化利率5.42%,O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O,2,招商银行
+为啥管工商叫大妈,O O O B-BANK I-BANK O O O,2,工商银行
+直接二卡网申，正常填写资料。小弟有工作，社保，公积金。工资卡是工行。月入7到8K.,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O B-BANK I-BANK O O O O O O O O,2,工商银行
+刚才看了下故宫开户额度30000应该是能喝正常调平即使后面降额也估计十万左右从3000曲线到实体卡到额度飙升心满意足了别放弃啊哈哈...,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O,2,工商银行
+七星呢，额度能提多少,O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,
+打电话干嘛？依然是很慢的,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+刚提了三万到130k，我以为废了,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,民生银行
+你别忽悠我，吓死我了，这管理费。连续6个月同名下总资产额在1000万（含）以上，免收管理费；800万（含）-1000万，管理费是1000元/月；800万以下，管理费是4000元/月。...,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+征信逾期？我半年都没事,B-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,工商银行
+打算还上1-2年后，转公积金了,O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O,2,农业银行
+下来了吗？额度多少？我现在还在审核,O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_N I-COMMENTS_N,2,中国银行
+什么情况，基金大震荡,O O O O O B-PRODUCT I-PRODUCT O O O,2,
+卡员问问看，干等着，着急么,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+中信5.28,B-BANK I-BANK O O O O,2,建设银行
+不高啊??同事都30??利息才4.35??我的偏高了,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+也很香，就是国航差点得分，想换一个等一等,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O,2,中信银行
+请问各位大神发这个短信的意思，是去网点签个字就通过了嘛,O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+楼主你过了吗？我跟你一样也没结果22号手机申请的，我想知道你过了么？额度多少,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,
+我的也被冻结了，银行让我去开户行解释,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O,2,农业银行
+怎么差距这么大？,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+缺少什么吗？,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+你可看看e生活，里面会显示年费，看是哪种。一万15次的话，我也申。,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O,2,工商银行
+招商咋刷的，我的下卡6000提到10000后两年不提了,B-BANK I-BANK O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O,2,招商银行
+我还以为分行有权利内部批卡呢……那确实没戏了,O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,招商银行
+怎么申请？是邀请才可以吗？这么麻烦么,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+你接到回复了吗，我感觉提额无望了,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+哈哈哈你是每天都点吗??我最近天天点每次都拒绝,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+我问一下客服吗，究竟怎么回事，真是烦人,O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+临时给过两次，第一次7.9，第二次临时给到9.2。固定额度没给,O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O,2,
+怎么到账，自动的？靠谱不,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+卡员上门一般比较靠谱,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+刷星提不了额吧，提额不行吧,O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+用多久出的？我三个月了还没有,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O,2,中信银行
+请问你被银行申请执行的时候有通知么。我昨天才收到判决书的，本金5万多，招行的。不想家里出钱了，自己抗。不知道咋弄...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O B-BANK I-BANK O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+你居然信它家，要笑死了哈哈哈哈哈。还不如多搞搞工行，建行的境外返现呢……,O O O O O O O O O O O O O O O O O O O O O O O B-BANK I-BANK O B-BANK I-BANK O O O O O O O O,2,招商银行
+2万5的额度，已经有一年多提额了，只是20%的临时额度。,O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+是增加时间？,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,招商银行
+贷出来了没有？网贷不建议彭,O O O O O O O B-PRODUCT I-PRODUCT O O O O,2,
+我看你不是经常撸小贷，怎么会是白户呢。,O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,工商银行
+坏蛋蛋,B-COMMENTS_ADJ O O,2,招商银行
+我有名额，卡不到，干着急,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+这额度值得留吗？,O B-COMMENTS_N I-COMMENTS_N O O O O O,2,农业银行
+发现宝藏卡额度都不高啊，我下了6000，立马消了,O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O,2,农业银行
+不是百分百的，我以前弄失败了,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+一个月的都多，不算长,O O O O O B-COMMENTS_ADJ O O O B-COMMENTS_ADJ,2,招商银行
+还行，刚好到我的底线10000，听说5倍积分又要来了，搞完今天，明年在用半年不涨又消掉从来,O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ O B-COMMENTS_ADJ B-COMMENTS_ADJ O O,2,中国银行
+999,O O O,2,民生银行
+我10万都被降0,O O O O O O B-COMMENTS_ADJ O,2,工商银行
+检查对联?,O O O O O,2,建设银行
+主要还是今年严打菠菜和杀猪盘诈骗洗钱。,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,0,工商银行
+申请的时候也没让提供这些信息啊，真烦,O O O O O O O O O O O O O O O O O O,2,
+难道只有借出来才能调平么？早知道不申三卡曲线了哎。。。关键不想借出来啊，借出来也没用还多一笔贷款记录。。。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O,2,工商银行
+不只是建行，这几天申卡时候有个也没非得填固定手机号也行，忘了哪行了,O O O B-BANK I-BANK O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+谁来找你协商的，我和你一样，第三方报案了，说要拘留我，吓死人,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+我三千用了五六年，申请3001都拒绝,O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+工行金卡10万的太多了。,B-BANK I-BANK B-PRODUCT I-PRODUCT O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+我的也秒到了，我是为了信用卡提额，我现在可以把融e借还回去不？还是要转到其他人的账户再重新转回来？,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,工商银行
+工行普卡也能上百万额度，看人不看卡。才2万就要大白金没意义,B-BANK I-BANK B-PRODUCT I-PRODUCT O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,工商银行
+申请别的会直接拒绝！我也是19年下卡0额度！很惨！,O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ O,2,中国银行
+又没叫你还，提前还不是要违约金,O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+总是没到账单日就还款有影响吗,O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O,2,招商银行
+不算，没分期就黑了。,O O O O B-PRODUCT I-PRODUCT O O O O,2,招商银行
+关注民生gzh回复所在城市名称。联系就好了,O O B-BANK I-BANK O O O O O O O O O O O O O O O O O,2,民生银行
+申请洛阳，先把地址改成洛阳再申请，这样额度高些,O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,
+同黑不能分期没临时,O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT O O O,2,招商银行
+挺快的了，我是8月底下的卡，今年51提的。,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O,2,招商银行
+之前没额度，授权以后才有额度,O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_N I-COMMENTS_N,2,建设银行
+公务卡只允许公务员或企事业单位员工办理。一般是由单位来集体办理的。,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+下点十万？想什么呢，那得多少砖的资质,O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,工商银行
+是最近下卡的吗，方便告知下下卡地区吗,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,工商银行
+门槛有点高是说什么,O O O O B-COMMENTS_ADJ O O O O,2,工商银行
+少张少个债务:lol,O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,民生银行
+是啊兄弟，太难了,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+云闪付属于央行，所有的资金流都可以看到。你放在工行,B-PRODUCT I-PRODUCT I-PRODUCT O O B-BANK I-BANK O O O O O O O O O O O O O O O O B-BANK I-BANK,2,工商银行
+云闪付有定制的金白菜,B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,工商银行
+昨天4月4日逛论坛，看到建设银行区，突然想申一张。就在,O O O O O O O O O O O O B-BANK I-BANK I-BANK I-BANK O O O O O O O O O O O,2,建设银行
+卡很难批。?我申请了15.8的名额，但是两次都没批，只是因为,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O,2,建设银行
+柜台满45天。,O O O O O O O,2,工商银行
+我交通，广发首卡自己手机激活哦没去银行。,O B-BANK I-BANK O B-BANK I-BANK B-PRODUCT I-PRODUCT O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O,2,建设银行
+注销可以有,B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+豆浆油条美滋滋,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+去年10月26日出现了预约帐单分期可提高固定额度35000，我就提了，到现在为止一直没有临时，更不要说固定，用卡我一直都是同样的方法，是不是那个预约分期就是这样呀，还是...,O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O,2,招商银行
+已经出账单了没还。。所以才会接到啊,O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O,2,建设银行
+好害怕我的二卡夭折，虽然我还没申,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O,2,中国银行
+应该是圆梦金加授信额度超过了信用卡额度，中信风控了。估计只有还款到不超信用卡额度才能恢复。我之前也有类似情况，每月都是负8000，大概还了一年多只进不出，现在恢复了...,O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O B-BANK I-BANK B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,中信银行
+记录编号是什么意思？,O O O O O O O O O O,2,工商银行
+悲剧了,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,0,建设银行
+继续涨的，催收电话也会一直打，就是说让我每个月还一点努力还完,O O B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,工商银行
+卡片从哪里寄出的啊？珠海？黄石？上海？寄卡会不会有短信告知快递单号啊，速度哎呀,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,
+有什么问题啊？,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+看你有没有砖，我13.6W额度还不是一样被拒了,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O B-COMMENTS_ADJ O,2,招商银行
+第一你逾期多少钱，多少时间，第二你及时打电话给老农管这个部门的客服，有办法出具什么贫困证明，然后商量一下,O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,农业银行
+晕倒前去的夜店有现在没了的积分，是真实消费,O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+亏！如果你没有这个，你的信用信息还是挺好的。,B-COMMENTS_ADJ O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+快递怎么拦截啊？,O O O O O O O O,2,招商银行
+咨询了一下，呆账和逾期不一样，呆账是从形成呆账那天起到还清那天5年,O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,工商银行
+80砖没提供房本和行驶证要求重审了两回第一回还是系统重审没过今天强烈要求人工审核终于过了要求重审的小伙伴们一定要要求人工审核！,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,招商银行
+可以调不过是送人头罢了,O O O O O O O O O O O,2,工商银行
+问客户经理查了房贷进度。虽然有些客户经理很冷淡，但他最清楚,O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-COMMENTS_ADJ O O,0,交通银行
+缺钱用这个，就是用了这个民生不提额，我申请了24期争取半年到一年还清，就当做装修贷吧,O O O O O O O O O O O O B-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O,2,民生银行
+网申就行，我就是网申审核四天过了,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O,2,民生银行
+压根不用管，经常会打电话让你分期啊，她们赚手续费背,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O,2,
+100k预审批？这么牛的，bilibili卡，全球支付白，芭比白，Joy卡都可以刷免，只有大山白和挚爱卡是刚性年费,O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-PRODUCT I-PRODUCT I-PRODUCT O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N,2,建设银行
+买单吧消费一次怎么搞,O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,交通银行
+我只绑了两个卡，每天4000积分,O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,
+有这种事吗？保养？我也这么认为，信用卡也是需要保养的啊,O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O,2,
+卖卡也是见义勇为,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,中国银行
+"总额度13500,还清，不再打算用，现在还清了给我发这信息是提示我会降低额度吗？逾期了三张它行",O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,中信银行
+很早都有了吧，记得好几年之前就看到了有,O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,工商银行
+工行每年都有刷卡返现活动，等2次活动，一次刷10万就可以了，积分白撸,B-BANK I-BANK O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O,2,工商银行
+这个是要刷出来吗,O O O O O O O O,2,民生银行
+活动不多，积分如粪土,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-PRODUCT I-PRODUCT O O O,2,民生银行
+啥东西，具体点路径,O O O O O O O O O,2,工商银行
+本金，也不是第一期。我的本金逾期16000元。三月份没接电话。,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O,2,招商银行
+我和楼主的遭遇一样，去激活的时候大堂经理也是要看社保,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O,2,中信银行
+公务卡不能自行调额，只能去卡部拿申请表，单位盖章同意调额,B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O,2,工商银行
+砖得放够3个月，额度就稳了,O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ O,2,
+5万以内血亏啊，5万以上如果最低档也就刚够本而已。,O O O O O B-COMMENTS_ADJ O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,招商银行
+图呢，没看到，招行？浦发？,O O O O O O O B-BANK I-BANK O B-BANK I-BANK O,2,
+你看过理财吗？我是主动还他钱还是等电话？如果我不给他打电话，我就不打了?我觉得问题不大。,O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+错了，他就直接问有没有行驶证。办车主卡就是这样的,O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,
+对啊电话也没累了累了,O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+我今天给黑白菜充值20万积分。,O O O O O O O O O O O O B-PRODUCT I-PRODUCT O,2,工商银行
+你这tb代发，真不怕被非柜？现在正在严打，等你被非柜，就彻底凉凉了,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,0,招商银行
+私行，钻石，白金，金卡可以让理财经理挑(但是最多也就是3A/4A连号)，普卡也是可以让理财帮忙挑，而且现在10连9连都不用想了，就说定制卡，9连沃德应该是可以(因为卡号数字...,O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+【民生】：58k,O B-BANK I-BANK O O O O O,2,民生银行
+農業65,O O O O,2,工商银行
+是滴，我情况一样，房贷审批放款了,O O O O O O O O O B-PRODUCT I-PRODUCT B-COMMENTS_N I-COMMENTS_N O O O,2,工商银行
+一般共享额度,O O O O B-COMMENTS_N I-COMMENTS_N,2,
+都说中信不好提招商好提??我是中信提招商不提,O O B-BANK I-BANK B-COMMENTS_ADJ I-COMMENTS_ADJ O B-BANK I-BANK O O O O O O B-BANK I-BANK O B-BANK I-BANK O O,2,
+民生还是很香的，,B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,民生银行
+活着真累.以贷养贷.贷贷相传。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O,0,建设银行
+建行每月贷后我一次，有的时候一个月2次,B-BANK I-BANK O O O O O O O O O O O O O O O O O,2,工商银行
+楼主，征信查询多吗，有没有小贷,O O O B-PRODUCT I-PRODUCT O O O O O O O O O O,2,建设银行
+显示要刷10000或者15次，正常吗？你们显示啥,O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,工商银行
+20笔还不够？每月最少50笔？招行最新规则吗,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O B-BANK I-BANK B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,招商银行
+你下过你应该知道呀，过不过都是一次贷款查询,O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O,2,建设银行
+我的提了，2个月了都，平安还是挺快的,O O O O O O O O O O O B-BANK I-BANK O O O O O,2,
+孩子这么谦虚？,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+掌上生活直视,B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O,2,招商银行
+那就是说小地方办不了了,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,招商银行
+楼主，从哪里申请的？这个额度喜人啊,O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,
+连续几个月多刷，再连续几个月少刷，有可能提固定,O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N,2,中信银行
+这么低的年化，跟白捡的一样，怎么有人说亏了，同样是借钱，有的老铁年化20多到36的都用了,O O B-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,中信银行
+懒得申请,B-COMMENTS_ADJ O O O,2,工商银行
+我申卡里面连生肖白都看不到，只能看到生肖金卡级别的，是地区不支持还是我级别不够申请啊,O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O B-PRODUCT I-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,工商银行
+028??0.25 这个更低,O O O O O O O O O O O O O B-COMMENTS_ADJ,2,
+哈哈，没有没有，我们都是用来备用的，她开始我申卡说申那么多有什么用，自从18年她爸爸肿瘤要钱治疗后就知道信用卡的好处了，什么亲戚都不可靠，有钱的亲姑妈也一样，所...,O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,工商银行
+生肖白不是20万么。。。我前两天没敢申请生肖白，申的无界,B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O B-PRODUCT I-PRODUCT,2,工商银行
+欠债逾期，还不让从工资卡里扣？,B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O,2,招商银行
+国家的政策是说大堂可以阻止不合理的开卡要求。但是国家也没说具体什么又是合理的。但是一般还款本工行房贷，还款本行信用卡，工资卡本行代发，还有一些本地全社会性质...,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-BANK I-BANK B-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+我也是去年11月份申请下卡的，到现在临时额度都没看到过一次,O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O,2,招商银行
+卡员？有的啊…,O O O O O O O,2,民生银行
+前天打客服电话了，说是有同种类信用卡，已取消了。,O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O,2,中国银行
+这个星有什么用啊，感觉没用,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+你朋友借了你20个，说实话真不少了。你那么多房子不卖，欠着别人钱，真的说不过去。你自己现在困难，可是别人的钱也不容易。还不如卖套，赶紧还清。踏踏实实，从头再来....,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,招商银行
+达到金额，有提示,O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,招商银行
+你关注我,O O O O,2,招商银行
+有钱人一张足以，没钱才多搞几个行的储蓄卡，大行都有话费水电费加油等羊毛,O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O,2,中国银行
+半小时就拒了,O O O O B-COMMENTS_ADJ O,2,招商银行
+你他行信用卡有逾期人行的征信记录肯定有影响，很难办下来。,O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_N I-COMMENTS_N O O O B-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,2,建设银行
+首卡要先面签,B-PRODUCT I-PRODUCT O O O O,2,建设银行
+共享配额。,O O B-COMMENTS_N I-COMMENTS_N O,2,中国银行
+取卡的时候需要工作单位地址吗？,O O O O O O O O O O O O O O O,2,工商银行
+如果有推荐名额，就有邀请，不管是重复还是单身，已经有双保险了。你就不用担心了,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+不用人神共愤，大妈愤就够了。,O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,工商银行
+没有权限，我是钛金卡,O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,招商银行
+一两个月显示销户，呆账变逾期，显示5年,O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O O O O O,2,中国银行
+那么多行，不累吗,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,民生银行
+找个mi友，互bang，还有吗,O O O O O O O O O O O O O O O,2,交通银行
+你是没有白金卡吧？任意下一行真白金卡可以破，这是征信等级限制，白金不行，申钻石，卡等级越高，授信就越...,O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O B-PRODUCT I-PRODUCT O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O B-COMMENTS_N I-COMMENTS_N O O O O O,2,招商银行
+交行饭票好用吗,B-BANK I-BANK O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+无卡通道是什么？,B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O O O O,2,建设银行
+我关心影响不影响信用卡，不影响我的话我也准备,O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O,2,民生银行
+放心，不用去你单位，你在哪让业务员过来，然后业务员给你办理，下卡了的话直接APP激活,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+我一直在小额多刷啊。。真实消费,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,招商银行
+每月0.35%，这个利率有点高啊,O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ O,2,
+????那到底是工商好，还是建设好呀？要一个稳定才行。,O O O O O O O O B-BANK I-BANK B-COMMENTS_ADJ O O O B-BANK I-BANK B-COMMENTS_ADJ O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,
+顺序是怎样的，先撸哪个，我搞不清楚,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+五险教了十几年了，首卡就是中国银行的信用卡白金卡六万的额度，当时啥不懂卡快递到手没有激活我就注销了...,O O O O O O O O O B-PRODUCT I-PRODUCT O O B-BANK I-BANK I-BANK I-BANK O B-PRODUCT I-PRODUCT I-PRODUCT B-PRODUCT I-PRODUCT I-PRODUCT O O O B-COMMENTS_N I-COMMENTS_N O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_N I-COMMENTS_N O O O O,2,中国银行
+看免息期申请==,O B-COMMENTS_N I-COMMENTS_N O O O O O,2,农业银行
+发卡片了去银行面签激活还能拒绝？,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,中信银行
+下次记得说买理财,O O O O O O B-PRODUCT I-PRODUCT,2,招商银行
+我也不提，接下来的卡也没先提,O O O O O O O O O O O O O O,2,民生银行
+官网,O O,2,民生银行
+自讨没趣，直接网申就好了，何必去网点看他们无奈的眼神或者白眼呢。,O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O,2,工商银行
+不记仇吧，我之前销卡后前几个月申请又下了，只是额度更少了,O O B-COMMENTS_ADJ O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O,2,交通银行
+问的话可以申请，但是不容易。,O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,建设银行
+颜值还是不错滴,O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ,1,招商银行
+我等2号面谈。等到现在面对面面试，太慢了。,O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,农业银行
+一年多没用，注销了吧,O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,
+深圳也是啊，开始说单六星就得了，后来填表要见到100砖，太坑了,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+很精美，你看这老虎真是虎虎生威,O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O,1,工商银行
+招行到6万比较好养，6万以上稍难,B-BANK I-BANK O O O O O O O O O O O O O B-COMMENTS_ADJ,2,招商银行
+之前稳定的提了三个月。授权至今已有6辆以上翻车,O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O,2,民生银行
+3+n失败，有什么高招？,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O,2,民生银行
+分期试过了么,B-PRODUCT I-PRODUCT O O O O,2,
+中国银行001binding云闪付也显示准信用卡，其实是信用卡,B-BANK I-BANK I-BANK I-BANK O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT I-PRODUCT,2,中国银行
+电话回访你没？回访就快了,O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+表准是不是银联版红白菜啊,O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O,2,工商银行
+{:2_197:}账单分期，我就是用了E分期进了些日子小黑屋，只不过现在给我提额了。,O O O O O O O O O B-COMMENTS_N I-COMMENTS_N B-PRODUCT I-PRODUCT O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O O,2,招商银行
+需要刷6万呀，有点多呀,O O O O O O O O O B-COMMENTS_ADJ O,2,
+中信新快线要扣为梦幻钱。每提前一次，就扣除未结清的金额。,B-BANK I-BANK O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N O B-COMMENTS_N I-COMMENTS_N O,2,建设银行
+我的中国银行也冻结5天了。完全没要解的意思。被ga冻结的,O O B-BANK I-BANK I-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,中国银行
+果然，下拉就好了，还是经典的好用,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,建设银行
+不用拿财力证明什么的吗，我想整个高额度的卡,O O O O O O O O O O O O O O O O B-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O,2,
+上7级需要五亿。放弃吧,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+续卡不是首卡,O O O O B-PRODUCT I-PRODUCT,2,工商银行
+中行的房贷，e贷秒通过，20万额度,B-BANK I-BANK O B-PRODUCT I-PRODUCT O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,中国银行
+刚做了一个分期，想试试。,O O O O O B-PRODUCT I-PRODUCT O O O O O,2,中国银行
+没救了。好无语啊,O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,
+多个零马上调平,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+查询应该不影响，查询影响啥额度了,O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O,2,
+什么渠道申请的？,O O O O O O O O,2,招商银行
+我也被河南警察冻结了平顶山的前面一个礼拜的事情,O O O O O O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,招商银行
+不要慌，闭着眼刷就是了,B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O,2,招商银行
+下卡1w用了三年多了。现在1.3,B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,民生银行
+不到万不得已别用，临时还不上麻烦的很,O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,招商银行
+嗯，这种举动会。???,O O O O O O O O O O O,2,中国银行
+恭喜提鹅,B-COMMENTS_ADJ I-COMMENTS_ADJ O O,1,招商银行
+好家伙别人说小额多笔你这就别小额,O O O O O O B-COMMENTS_ADJ O O O O O O O B-COMMENTS_ADJ O,2,招商银行
+以为渣打下卡了,O O O O B-COMMENTS_N I-COMMENTS_N O,2,建设银行
+交通银行的预审批额度在哪看？给发个图看看可以吗？,B-BANK I-BANK I-BANK I-BANK O B-COMMENTS_N I-COMMENTS_N I-COMMENTS_N B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O,2,交通银行
+你去协商的前提是你得有后续，协商成功就得按协商的还，后期哪怕逾期一天就叫你直接全部一次性还清。还不了就直接起诉等法院判决执行。...,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,2,农业银行
+你再联系一下银行，沟通一下，看论坛里面有不少都没有提前结清，你是把容易借全部都用来还贷了吗？一共多少额度,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_N I-COMMENTS_N,2,工商银行
+app里有个信用卡申请确认你试试我那天打客服电话也查不到让我拿到卡去现场面签后来我手机银行确认好就可以看到了后来也没去网点面签...,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O O O O O O O,2,建设银行
+可能是征信花？,O O O B-PRODUCT I-PRODUCT O O,2,农业银行
+感谢分享经验。,B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,工商银行
+我这里最高只能选择36期，木有五年,O O O B-COMMENTS_ADJ I-COMMENTS_ADJ B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O,2,建设银行
+这张貌似新推出的,O O O O O O O O,2,工商银行
+东奥双标卡有5倍积分了,O O B-PRODUCT I-PRODUCT O O O O B-PRODUCT I-PRODUCT O,2,中国银行
+俺也是100多公里，10月1去了1趟，没办法 ，为了额度,O O O O O O O O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N,2,
+审核的周末,B-COMMENTS_N I-COMMENTS_N O O O,2,建设银行
+没有的话，提示让你去网点申请。网点申请额度也高，速度也快,O O O O O O O O O O O O O O O O O O O B-COMMENTS_N I-COMMENTS_N O B-COMMENTS_ADJ O O O O B-COMMENTS_ADJ,2,
+额度外的吗？,B-COMMENTS_N I-COMMENTS_N O O O O,2,民生银行
+我擦，就我没有，崩溃了,O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O,2,工商银行
+都回了,O O O,2,招商银行
+网瘾最保险。云闪付最方便。有短信或者微信提醒就用云闪付，还玩确认,O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O,2,工商银行
+U盾过期了，常年没用过U盾。。。,B-PRODUCT I-PRODUCT O O O O O O O O O B-PRODUCT I-PRODUCT O O O,2,工商银行
+没有贷款。?都是一次性买的???,O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O,2,建设银行
+后来怎么搞定？我也遇到了，心烦,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
+什么卡种，也是精粹白吗，,O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O,2,农业银行
+我柜面开了u盾186000全借出来了,O O O O O O O O O O O O O O O O O O,2,工商银行
+打上海银行纠纷中心021-55369653求助吧,O B-BANK I-BANK I-BANK I-BANK O O O O O O O O O O O O O O O O O O O,2,农业银行
+不是白金才是10万吗，金卡不是只有5万嘛,O O O O O O O O O O O B-PRODUCT I-PRODUCT O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O,2,中信银行
+我也不太确定，按理无界卡应该说秒批的，等明天看看吧，征信应该只查一次，我前段时间一个月先后申请了三张大妈的信用卡，也只查了一次征信...,O O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O B-PRODUCT I-PRODUCT O O O,2,工商银行
+上次提额时间是18年七月,O O B-COMMENTS_N I-COMMENTS_N O O O O O O O O,2,民生银行
+我10万一下降成了0,O O O O O O B-COMMENTS_ADJ O O O,2,工商银行
+走吧，我去年分期买了手机，走出暗室筹钱?多久没见了..,O O O O O O B-PRODUCT I-PRODUCT O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ O O O O O,2,招商银行
+我刷了0.6结果没积分天书。,O O O O O O O O O B-PRODUCT I-PRODUCT O O O,0,招商银行
+通过了么？我的也是一样。面签要求申请的信用卡。差不多进度,O O O O O O O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O B-COMMENTS_ADJ I-COMMENTS_ADJ I-COMMENTS_ADJ O O,2,建设银行
+卡员拍了个人所得税的明细和公积金的明细，其他没要……他说购房发票没啥用,O O O O O O O O O O O O O B-PRODUCT I-PRODUCT I-PRODUCT O O O O O O O O O O O O O O O O O O O,2,招商银行
+那得100砖以上吧，老哥，好难,O O O O O O O O O O O O O B-COMMENTS_ADJ I-COMMENTS_ADJ,2,
