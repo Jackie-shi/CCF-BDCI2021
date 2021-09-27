@@ -1,1 +1,1 @@
-# Model config of all
+# all essential attributes model will use
