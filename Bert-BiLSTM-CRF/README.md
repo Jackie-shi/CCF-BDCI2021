@@ -20,3 +20,5 @@
 * eval_data：验证数据路径
 * test_data：测试集数据路径
 * ckpt_model_path：checkpoint模型文件保存路径
+
+<img width="3626" alt="Bert-BiLSTM-CRF 代码分析" src="https://user-images.githubusercontent.com/75195605/135010580-e73d9411-f245-4ec8-907f-d6d10ce64f34.png">
